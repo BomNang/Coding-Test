@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+
+# VSCode
+.vscode/
+
+# Build files
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Object / binary
+*.obj
+*.o
+*.exe
+*.out
+*.log
