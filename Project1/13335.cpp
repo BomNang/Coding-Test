@@ -59,8 +59,6 @@ int main()
                 trucks.pop();
             }
         }
-
-		
     }
 
 	cout << time << "\n";
